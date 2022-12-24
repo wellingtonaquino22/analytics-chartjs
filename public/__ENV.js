@@ -1,0 +1,1 @@
+window.__ENV = {"CMD_API_URL":"http://api.dev.marquesconsult.internal/cmd/v1","CMD_KEYCLOAK_URL":"http://keycloak.dev.marquesconsult.internal/","CMD_KEYCLOAK_REALM":"marquesconsult","CMD_KEYCLOAK_CLIENT_ID":"cmd-ui","REACT_ENV_PREFIX":"CMD"};
